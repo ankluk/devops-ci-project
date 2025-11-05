@@ -1,0 +1,7 @@
+# Ignore Python auto-generated files
+__pycache__/
+*.pyc
+
+# Ignore Operating System junk files
+.DS_Store
+Thumbs.db
